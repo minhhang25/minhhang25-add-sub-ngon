@@ -1,0 +1,22 @@
+{
+  "name": "ngoclannnn-add-sub",
+  "version": "1.0.25",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhhang25/minhhang25-add-sub-ngon.git"
+  },
+  "keywords": [
+    "cacl"
+  ],
+  "author": "minhhang25",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhhang25/minhhang25-add-sub-ngon/issues"
+  },
+  "homepage": "https://github.com/minhhang25/minhhang25-add-sub-ngon#readme"
+}
