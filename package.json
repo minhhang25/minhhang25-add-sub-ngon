@@ -13,6 +13,15 @@
   "keywords": [
     "cacl"
   ],
+  "dependencies": {
+    "muontinh-suuummm": "1.0.4",
+    "tinhtong2sobangjs-lanha5886": "1.0.5",
+    "tieuvi-multi-sum": "1.0.4",
+    "thanhngoc44-synnn": "1.0.45",
+    "synnnn-thanhngoc44-sum": "1.0.4",
+    "ngoclannnn-add-sub":"1.0.12",
+    "sub-addd-dispaly":"1.0.4"
+    },
   "author": "minhhang25",
   "license": "MIT",
   "bugs": {
